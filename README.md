@@ -7,7 +7,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'gabia_maeumgyeol';
+    font-family: 'SuseongDotum';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/suseong/SuseongDotum.eot');
